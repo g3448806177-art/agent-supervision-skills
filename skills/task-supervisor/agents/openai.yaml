@@ -1,0 +1,6 @@
+interface:
+  display_name: "独立监督与验收"
+  short_description: "大任务自动建立唯一独立监督，开工对齐、过程纠错和最终验收；继续复用，小任务不强制开串"
+  default_prompt: "请使用 $task-supervisor 按当前角色自动接入大任务监督，复用登记对话，核对目标、原始证据与最终交付，并复验关闭问题。"
+policy:
+  allow_implicit_invocation: true

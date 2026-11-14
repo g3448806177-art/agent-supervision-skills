@@ -1,4 +1,4 @@
-# Agent Supervision Skills
+# Agent Supervision Skills · Codex 版
 
 **让多代理协作有明确分工、可追溯证据和独立验收。**
 

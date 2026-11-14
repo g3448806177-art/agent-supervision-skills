@@ -1,0 +1,12 @@
+interface:
+  display_name: "项目主控 · 自动分流"
+  short_description: "大任务先读规则写卡、建立唯一监督并通过目标对齐，再实施、修复复验和最终交付；小任务直接完成"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
